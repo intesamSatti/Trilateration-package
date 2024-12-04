@@ -1,0 +1,16 @@
+{
+  "name": "isatti-trilat",
+  "version": "1.0.2",
+  "description": "2d Trialteration with 3 points",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test/example.js",
+    "prepare": "npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
